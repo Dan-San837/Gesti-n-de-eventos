@@ -35,3 +35,7 @@
 	- Consulta información sobre eventos, participantes y sus relaciones.
 
 * Se debe crear un programa principal que permita validar los casos de uso establecidos.
+
+## Diagrama de clases
+
+![](https://github.com/Dan-San837/Gesti-n-de-eventos/blob/4ccf48e153543d3e7467fbae8f66e36ea5f32eb9/Diagram_Gest_de_Even.png)
